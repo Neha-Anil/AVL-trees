@@ -1,5 +1,8 @@
-# AVL-trees
-for each input ,the tree balances itself where the difference of the height between left and right sub-trees is either -1,0 or 1
+//AVL-trees
+//for each input ,the tree balances itself where the difference of the height between left and right sub-trees is either -1,0 or 1
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
